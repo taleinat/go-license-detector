@@ -127,8 +127,9 @@ will be extended to support those.
 * [realm/realm-cocoa](https://github.com/realm/realm-cocoa/blob/master/LICENSE) - Apache concatenated with other content.
 * [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket/blob/master/LICENSE.txt) - public domain and BSD, custom format.
 * [jquery/jquery-mobile](https://github.com/jquery/jquery-mobile/blob/master/LICENSE.txt) - concatenation of JQuery and CC0.
+* [ghodss/yaml](https://github.com/ghodss/yaml/blob/master/LICENSE) - concatenation of MIT and BSD-3-Clause
 
-### Die hards
+### Die https://github.com/src-d/go-license-detector/blob/master/FAILURES.md
 * [RubaXa/Sortable](https://github.com/RubaXa/Sortable) - license is appended to the end of `README.md`.
 * [Automattic/mongoose](https://github.com/Automattic/mongoose) - BSD license is appended to the end of `README`.
 * [mperham/sidekiq](https://github.com/mperham/sidekiq/blob/master/LICENSE) - license file is completely custom, mentions LGPL.
